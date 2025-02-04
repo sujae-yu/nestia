@@ -107923,7 +107923,7 @@
                   "example": "Invalid owner on line 7:\n\n  * user\n    ^"
                 },
                 "path": {
-                  "description": "The path of the file where the error occured.",
+                  "description": "The path of the file where the error occurred.",
                   "type": "string",
                   "example": ".github/CODEOWNERS"
                 }
