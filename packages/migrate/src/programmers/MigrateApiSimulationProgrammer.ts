@@ -10,7 +10,7 @@ import { MigrateApiNamespaceProgrammer } from "./MigrateApiNamespaceProgrammer";
 import { MigrateImportProgrammer } from "./MigrateImportProgrammer";
 import { MigrateSchemaProgrammer } from "./MigrateSchemaProgrammer";
 
-export namespace MigrateApiSimulatationProgrammer {
+export namespace MigrateApiSimulationProgrammer {
   export const random =
     (components: OpenApi.IComponents) =>
     (importer: MigrateImportProgrammer) =>
